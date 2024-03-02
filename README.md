@@ -1,2 +1,3 @@
 # Auto-smb
-a tool for executing commands in the smb protocol remotely and from terminal
+una herramienta para ejecutar comandos en el protocolo smb de forma remota y desde terminal
+
