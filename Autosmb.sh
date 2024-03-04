@@ -33,7 +33,7 @@ read -p "$(echo -e "\n${grayCl}Deseas ejecutar remotamente comandos yay/nay: ${e
 
     echo
 
-    smbclient //10.10.42.247/nt4wrksv -N -c "${Comando}"
+    smbclient //$ip_victima/nt4wrksv -N -c "${Comando}"
 
     echo 
 
